@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ademar-cardoso-940820162/" title="Link of Linkedin to profile of Ademar">
-    <img height="30" src="./icons/linkedin.png" title="Logo of the Linkedin"/>
+    <img height="30" src="https://github.com/ademarCardoso/ademarCardoso/blob/master/icons/linkedin.png?raw=true" title="Logo of the Linkedin"/>
   </a>
   <a title="Link of Twitter to profile of Ademar" href="https://twitter.com/ademarcardo">
-    <img height="30" src="./icons/twitter.png" title="Logo of the Twitter"/>
+    <img height="30" src="https://github.com/ademarCardoso/ademarCardoso/blob/master/icons/twitter.png?raw=true" title="Logo of the Twitter"/>
   </a>
 </p>
 
