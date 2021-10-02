@@ -17,6 +17,6 @@ I’m passionate about old technology, from the time of the Apollo program and I
 
 #### Ongoing studies 📝
 
-- Improving knowledge with `Vue.js`. :heart:
+- Improving knowledge with `Vue.js` :green_heart:
 - Studying `English`.
 - Studying `German` (When I have free time).
